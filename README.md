@@ -1,30 +1,27 @@
-# Health Assessment Application
+# Sugar - Diabetic Risk Assessment and Diet Recommendation
 
-![App Screenshot](screenshots/app-preview.png) <!-- Add a screenshot if available -->
+## Problem Statement
+Diabetes is a widespread health issue, affecting millions of people globally. We aim to address the growing concern of diabetes by creating a system that helps individuals assess their likelihood of developing diabetes and provides tailored diet recommendations. This tool focuses on both individuals who have already been diagnosed with diabetes and those at risk of developing the condition.
 
-A Streamlit-based web application that assesses diabetes risk through health metrics and provides personalized recommendations, featuring an interactive health knowledge quiz.
+## Why We Developed It
+The main motivation behind this project is to help people, especially those at risk or early-stage diabetics, by offering a system that can predict their chances of developing diabetes. This can be a crucial early intervention tool, offering suggestions to modify lifestyle habits, such as diet, to help prevent or manage diabetes effectively.
 
-## Features
+## What We Developed
+We developed a machine learning-based application that:
+- Assesses the risk of an individual developing diabetes using relevant data points.
+- Provides the probability of developing diabetes based on the input data.
+- Recommends a personalized diet to help manage the condition or reduce the risk of onset.
 
-- **Health Risk Assessment**:
-  - Diabetes probability prediction using XGBoost model
-  - Analysis of 7 key health metrics
-  - Color-coded risk visualization
+## Tech Stack Used
+- **Streamlit**: For building the web interface to make the app user-friendly and interactive.
+- **Python**: For implementing the machine learning models and handling data processing tasks.
 
-- **Personalized Recommendations**:
-  - AI-generated health plans via Gemini API
-  - Diet and exercise suggestions
-  - Goal-oriented timeline estimates
+## Dependencies
+- **streamlit**
+- **pandas**
+- **numpy**
+- **pickle**
 
-- **Interactive Health Quiz**:
-  - 4-question knowledge challenge
-  - Image-based food/activity comparisons
-  - Detailed explanations for each answer
-
-- **Meal Analysis**:
-  - Image upload for food assessment
-  - Nutritional breakdown
-  - Healthier alternative suggestions
 
 ## Installation
 
