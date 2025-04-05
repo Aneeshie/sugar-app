@@ -1,0 +1,130 @@
+/* Base Setup */
+body {
+    background-color: #0a0a0a;
+    color: #f0f0f0;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, sans-serif;
+}
+
+/* Hide Streamlit default header & footer */
+header, footer {
+    visibility: hidden;
+}
+
+/* Custom Title */
+h1.title {
+    font-size: 3.5rem;
+    font-weight: 700;
+    text-align: center;
+    margin-top: 3rem;
+    margin-bottom: 1rem;
+    color: white;
+}
+
+/* Custom Subtitle */
+p.subtitle {
+    font-size: 1.4rem;
+    text-align: center;
+    color: #aaaaaa;
+    margin-bottom: 3rem;
+}
+
+/* Center all main elements */
+.block-container {
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+    max-width: 800px;
+    margin: auto;
+}
+
+/* Buttons */
+button {
+    background-color: #1c1c1e !important;
+    color: white !important;
+    border-radius: 8px !important;
+    padding: 0.6rem 1.5rem !important;
+    border: 1px solid #333 !important;
+    font-weight: 500 !important;
+    transition: all 0.3s ease-in-out !important;
+}
+
+button:hover {
+    background-color: #2c2c2e !important;
+    border-color: #555 !important;
+}
+
+/* Input fields */
+input, textarea, select {
+    background-color: #1c1c1e !important;
+    color: white !important;
+    border: 1px solid #333 !important;
+    border-radius: 6px !important;
+}
+
+input:focus, textarea:focus, select:focus {
+    border-color: #007aff !important;
+    outline: none !important;
+}
+
+/* File uploader */
+.css-1x8cf1d {
+    background-color: #1c1c1e !important;
+    border: 1px dashed #444 !important;
+    color: #ccc !important;
+}
+
+.css-1x8cf1d:hover {
+    border-color: #007aff !important;
+}
+
+/* AI Result Styling */
+.stAlert {
+    background-color: #161616 !important;
+    border-left: 4px solid #007aff !important;
+}
+
+/* Success Message */
+.stAlert-success {
+    color: #00ff9c !important;
+    border-left-color: #00ff9c !important;
+}
+
+/* Warning & Error Messages */
+.stAlert-warning {
+    color: #ffc107 !important;
+}
+.stAlert-error {
+    color: #ff4d4f !important;
+}
+/* Landing Page Container */
+.landing-container {
+    padding-top: 100px;
+    text-align: center;
+}
+
+/* Title styling */
+.title {
+    font-size: 3em;
+    font-weight: bold;
+    color: #e0e0e0;
+    margin-bottom: 0.2em;
+}
+
+/* Subtitle styling */
+.subtitle {
+    font-size: 1.3em;
+    color: #cccccc;
+    margin-bottom: 2em;
+}
+
+/* Button styling (optional - you can theme this more) */
+button {
+    font-size: 1.1em;
+    padding: 0.75em 1.5em;
+}
+
+.sidebar-welcome {
+    font-size: 1.8em;
+    font-weight: 600;
+    color: #ffffff;
+    margin-bottom: 1.5rem;
+}
