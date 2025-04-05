@@ -8,9 +8,10 @@ The main motivation behind this project is to help people, especially those at r
 
 ## What We Developed
 We developed a machine learning-based application that:
-- Assesses the risk of an individual developing diabetes using relevant data points.
-- Provides the probability of developing diabetes based on the input data.
-- Recommends a personalized diet to help manage the condition or reduce the risk of onset.
+- Made a small fun quiz at the start to engage users.
+- Built a machine learning model which uses patient information to predict the risk of developing diabetes.
+- Created an upload food image feature to analyze meals.
+- Used LLMs to provide insights, analyze the meal, and offer personalized diet recommendations.
 
 ## Tech Stack Used
 - **Streamlit**: For building the web interface to make the app user-friendly and interactive.
