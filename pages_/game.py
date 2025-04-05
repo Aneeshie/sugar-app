@@ -22,7 +22,7 @@ def show():
             },
             {
                 "name": "Whole Grain Bread", 
-                "image": "/home/zerome/coding/sugar-app/assets/wholewheat.png", 
+                "image": "/assets/wholewheat.png", 
                 "correct": True, 
                 "explanation": "Whole grain bread contains all parts of the grain, including fiber which slows digestion. This results in a more gradual release of glucose into your bloodstream."
             }
@@ -39,7 +39,7 @@ def show():
             },
             {
                 "name": "Swimming", 
-                "image": "/home/zerome/coding/sugar-app/assets/swimming.png", 
+                "image": "/assets/swimming.png", 
                 "correct": True, 
                 "explanation": "Swimming engages nearly all muscle groups simultaneously while providing resistance from the water. This full-body workout can burn 400-700 calories per hour."
             }
@@ -50,13 +50,13 @@ def show():
         "options": [
             {
                 "name": "Saturated Fat", 
-                "image": "/home/zerome/coding/sugar-app/assets/butter.png", 
+                "image": "/assets/butter.png", 
                 "correct": False, 
                 "explanation": "Saturated fats, found in foods like butter and fatty cuts of meat, can increase your cholesterol levels, leading to higher risks of heart disease."
             },
             {
                 "name": "Unsaturated Fat", 
-                "image": "/home/zerome/coding/sugar-app/assets/avacados.png", 
+                "image": "/assets/avacados.png", 
                 "correct": True, 
                 "explanation": "Unsaturated fats, found in foods like olive oil, nuts, and avocados, can help lower cholesterol levels and reduce heart disease risk."
             }
@@ -67,13 +67,13 @@ def show():
         "options": [
             {
                 "name": "Coffee", 
-                "image": "/home/zerome/coding/sugar-app/assets/coffee.png", 
+                "image": "/assets/coffee.png", 
                 "correct": False, 
                 "explanation": "Coffee, due to its caffeine content, can have a mild diuretic effect, leading to increased urination and possible dehydration."
             },
             {
                 "name": "Water", 
-                "image": "/home/zerome/coding/sugar-app/assets/water.png", 
+                "image": "/assets/water.png", 
                 "correct": True, 
                 "explanation": "Water is the most effective drink for hydration as it helps maintain bodily functions and replenishes fluids lost through sweat and urination."
             }
