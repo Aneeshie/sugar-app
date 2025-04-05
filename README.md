@@ -13,6 +13,9 @@ We developed a machine learning-based application that:
 - Created an upload food image feature to analyze meals.
 - Used LLMs to provide insights, analyze the meal, and offer personalized diet recommendations.
 
+## Vision
+Our vision is to make diabetes prevention and management accessible and engaging for everyone. We aim to empower individuals with the knowledge and tools to make informed decisions about their health, reducing the global impact of diabetes and improving quality of life.
+
 ## Tech Stack Used
 - **Streamlit**: For building the web interface to make the app user-friendly and interactive.
 - **Python**: For implementing the machine learning models and handling data processing tasks.
@@ -23,6 +26,10 @@ We developed a machine learning-based application that:
 - **numpy**
 - **pickle**
 
+## Challenges
+- **Handling LLM Responses**: Managing and generating meaningful responses from the LLMs was challenging, as we had to ensure the insights were relevant and accurate.
+- **Dataset Limitations**: The available datasets did not contain all the required values or were missing important data points, making the training process more difficult and requiring data augmentation or preprocessing.
+- **Displaying Meaningful Error Messages**: Ensuring that the system displays clear and helpful error messages when issues arise was a challenge, particularly when dealing with user input or backend processing errors.
 
 ## Installation
 
