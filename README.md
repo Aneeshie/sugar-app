@@ -27,8 +27,8 @@ We developed a machine learning-based application that:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/health-assessment-app.git
-   cd health-assessment-app
+   git clone git@github.com:Aneeshie/sugar-app.git
+   cd sugar-app
 
 2. Run app.py
   ```bash
