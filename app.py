@@ -46,7 +46,7 @@ def add_bg_from_local(image_file):
         unsafe_allow_html=True
     )
 
-add_bg_from_local('/assets/NEW_BACKGROUND.jpg')  # Add your background image
+add_bg_from_local('assets/NEW_BACKGROUND.jpg')  # Add your background image
 
 # Initialize session state
 session_defaults = {
