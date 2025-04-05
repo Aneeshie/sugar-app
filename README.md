@@ -32,3 +32,7 @@ A Streamlit-based web application that assesses diabetes risk through health met
    ```bash
    git clone https://github.com/yourusername/health-assessment-app.git
    cd health-assessment-app
+
+2. Run app.py
+  ```bash
+  streamlit run app.js
