@@ -27,7 +27,8 @@ Our vision is to make diabetes prevention and management accessible and engaging
 - **pandas**
 - **numpy**
 - **pickle**
-
+- **xgboost**
+  
 ## Challenges
 - **Handling LLM Responses**: Managing and generating meaningful responses from the LLMs was challenging, as we had to ensure the insights were relevant and accurate.
 - **Dataset Limitations**: The available datasets did not contain all the required values or were missing important data points, making the training process more difficult and requiring data augmentation or preprocessing.
