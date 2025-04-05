@@ -13,6 +13,9 @@ We developed a machine learning-based application that:
 - Created an upload food image feature to analyze meals.
 - Used LLMs to provide insights, analyze the meal, and offer personalized diet recommendations.
 
+## Dataset
+The dataset used can be accessed using https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database
+
 ## Vision
 Our vision is to make diabetes prevention and management accessible and engaging for everyone. We aim to empower individuals with the knowledge and tools to make informed decisions about their health, reducing the global impact of diabetes and improving quality of life.
 
