@@ -17,7 +17,7 @@ We developed a machine learning-based application that:
 The dataset used can be accessed using https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database
 
 ## Vision
-Our vision is to make diabetes prevention and management accessible and engaging for everyone. We aim to empower individuals with the knowledge and tools to make informed decisions about their health, reducing the global impact of diabetes and improving quality of life.
+Our vision is to make diabetes prevention and management accessible and engaging for everyone. We aim to empower individuals with the knowledge and tools to make informed decisions about their health, reducing the global impact of diabetes and improving quality of life. Additionally, we plan to integrate this system with hospitals, enabling healthcare professionals to use the tool for early diagnosis and personalized patient care.
 
 ## Tech Stack Used
 - **Python**: For implementing the machine learning models and handling data processing tasks.
