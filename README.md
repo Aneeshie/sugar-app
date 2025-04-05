@@ -17,7 +17,6 @@ We developed a machine learning-based application that:
 Our vision is to make diabetes prevention and management accessible and engaging for everyone. We aim to empower individuals with the knowledge and tools to make informed decisions about their health, reducing the global impact of diabetes and improving quality of life.
 
 ## Tech Stack Used
-- **Streamlit**: For building the web interface to make the app user-friendly and interactive.
 - **Python**: For implementing the machine learning models and handling data processing tasks.
 
 ## Dependencies
