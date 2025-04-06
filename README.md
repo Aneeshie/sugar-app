@@ -3,11 +3,13 @@
 ## Problem Statement
 Diabetes is a widespread health issue, affecting millions of people globally. We aim to address the growing concern of diabetes by creating a system that helps individuals assess their likelihood of developing diabetes and provides tailored diet recommendations. This tool focuses on both individuals who have already been diagnosed with diabetes and those at risk of developing the condition.
 
+## Inspiration
+Our team noticed a considerable hike in diabetes prevalence rate among adolescents and young adults. Having noticed this, we decided that there weren't many applications that tended to the young at-risk patients. Educating users by  recommending insights, diet preferences, and lifestyle choices and devising a simple yet enjoyable minigame that teaches users about making healthy life choices  can increase user retention.
+
 ## Why We Developed It
 The main motivation behind this project is to help people, especially those at risk or early-stage diabetics, by offering a system that can predict their chances of developing diabetes.
 
 This can be a crucial early intervention tool, offering suggestions to modify lifestyle habits, such as diet, to help prevent or manage diabetes effectively.
-
 
 ## What We Developed
 We developed an application that
