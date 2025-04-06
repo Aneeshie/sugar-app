@@ -23,16 +23,27 @@ A flowchart design to explain what we have developed diagrammatically:
 
 ![Alt text](https://github.com/Aneeshie/sugar-app/blob/main/flowchart.png?raw=true)
 
+### ML Model
 This is the implemented **machine learning model**: https://colab.research.google.com/drive/1Q2fakKaOsunKjjsULb68jWuEP2HDHomv
-## Dataset
-The dataset used can be accessed using https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database
+Dataset used can be accessed using https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database
+
+### Large Language Models
+We implemented the **LLM** in streamlit
+We gave the prompts obtained from **input values** and the **probability that the user has diabetes** as prompts for the LLM
 
 ## Vision
-Our vision is to make diabetes prevention and management accessible and engaging for everyone. We aim to empower individuals with the knowledge and tools to make informed decisions about their health, reducing the global impact of diabetes and improving quality of life. Additionally, we plan to integrate this system with hospitals, enabling healthcare professionals to use the tool for early diagnosis and personalized patient care.
+Our vision is to make diabetes prevention and management accessible and engaging for everyone. We aim to empower individuals with the knowledge and tools to make informed decisions about their health.
+We plan to:
+ - Integrate this system with hospitals, enabling healthcare professionals to use the tool for early diagnosis and personalized patient care.
+ - Create a full-fledged encryption system for individuals so that their personal assessments and health data are secured
+ - Ensure that the LLM is capable of learning from multiple users instead of one user in order to perform recommendations based on similar users
+and ensure more personalized recommendations
 
 ## Tech Stack Used
-- **Python**: For implementing the machine learning models and handling data processing tasks.
-
+- **Python**: For implementing the **machine learning** models and handling data processing tasks.
+  Python Version: 3.12.0
+- **Gemini API**: For integrating the **LLM** (Large Language Model) to provide personalized diet recommendations and insights based on user data.
+  
 ## Dependencies
 - **streamlit**
 - **pandas**
