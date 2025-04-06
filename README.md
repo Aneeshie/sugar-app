@@ -21,9 +21,10 @@ We developed an application that
 
 A flowchart design to explain what we have developed diagrammatically:
 
+![Alt text](https://github.com/Aneeshie/sugar-app/blob/main/flowchart.png?raw=true)
 ## Dataset
 The dataset used can be accessed using https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database
-![Alt text](https://github.com/Aneeshie/sugar-app/blob/main/flowchart.png?raw=true)
+
 ## Vision
 Our vision is to make diabetes prevention and management accessible and engaging for everyone. We aim to empower individuals with the knowledge and tools to make informed decisions about their health, reducing the global impact of diabetes and improving quality of life. Additionally, we plan to integrate this system with hospitals, enabling healthcare professionals to use the tool for early diagnosis and personalized patient care.
 
