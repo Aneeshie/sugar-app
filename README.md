@@ -9,7 +9,6 @@ The main motivation behind this project is to help people, especially those at r
 This can be a crucial early intervention tool, offering suggestions to modify lifestyle habits, such as diet, to help prevent or manage diabetes effectively.
 
 
-
 ## What We Developed
 We developed an application that
 - Made a **small fun quiz** at the start to engage users.
