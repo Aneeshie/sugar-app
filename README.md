@@ -23,7 +23,7 @@ A flowchart design to explain what we have developed diagrammatically:
 
 ![Alt text](https://github.com/Aneeshie/sugar-app/blob/main/flowchart.png?raw=true)
 
-https://colab.research.google.com/drive/1Q2fakKaOsunKjjsULb68jWuEP2HDHomv
+This is the implemented **machine learning model** https://colab.research.google.com/drive/1Q2fakKaOsunKjjsULb68jWuEP2HDHomv
 ## Dataset
 The dataset used can be accessed using https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database
 
