@@ -29,7 +29,11 @@ Dataset used can be accessed using https://www.kaggle.com/datasets/uciml/pima-in
 
 ### Large Language Models
 We implemented the **LLM** in streamlit
+
 We gave the prompts obtained from **input values** and the **probability that the user has diabetes** as prompts for the LLM
+
+The LLM displays the response based on the user's input, and learns from user behaviour
+
 
 ## Vision
 Our vision is to make diabetes prevention and management accessible and engaging for everyone. We aim to empower individuals with the knowledge and tools to make informed decisions about their health.
@@ -37,7 +41,7 @@ We plan to:
  - Integrate this system with hospitals, enabling healthcare professionals to use the tool for early diagnosis and personalized patient care.
  - Create a full-fledged encryption system for individuals so that their personal assessments and health data are secured
  - Ensure that the LLM is capable of learning from multiple users instead of one user in order to perform recommendations based on similar users
-and ensure more personalized recommendations
+in turn ensuring more personalized recommendations
 
 ## Tech Stack Used
 - **Python**: For implementing the **machine learning** models and handling data processing tasks.
