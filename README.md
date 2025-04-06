@@ -7,11 +7,19 @@ Diabetes is a widespread health issue, affecting millions of people globally. We
 The main motivation behind this project is to help people, especially those at risk or early-stage diabetics, by offering a system that can predict their chances of developing diabetes. This can be a crucial early intervention tool, offering suggestions to modify lifestyle habits, such as diet, to help prevent or manage diabetes effectively.
 
 ## What We Developed
-We developed a machine learning-based application that:
-- Made a small fun quiz at the start to engage users.
-- Built a machine learning model which uses patient information to predict the risk of developing diabetes.
-- Created an upload food image feature to analyze meals.
-- Used LLMs to provide insights, analyze the meal, and offer personalized diet recommendations.
+We developed an application that
+- Made a **small fun quiz** at the start to engage users.
+  In order to educate the users, we provided two images and asked them to choose the healthier. After they pick the answer, we provide a description of the foods.
+- Built a **machine learning model** which uses patient information to predict the risk of developing diabetes.
+- Allow the user to **upload an image**.
+- We used the:
+  - probability of developing diabetes
+  - the uploaded image
+  - the goals given by the user
+  for the **LLM**.
+- The implemented LLM was used to provide insights, analyze the meal, and offer personalized diet recommendations
+
+A flowchart design to explain what we have developed diagrammatically:
 
 ## Dataset
 The dataset used can be accessed using https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database
