@@ -66,6 +66,26 @@ in turn ensuring more personalized recommendations
 - **Dataset Limitations**: The available datasets did not contain all the required values or were missing important data points, making the training process more difficult and requiring data augmentation or preprocessing.
 - **Displaying Meaningful Error Messages**: Ensuring that the system displays clear and helpful error messages when issues arise was a challenge, particularly when dealing with user input or backend processing errors.
 
+## How to run this project?
+Windows
+
+go to current directory
+
+### python -m venv venv
+This creates a virtual environment named venv using Python.
+python -m venv is the module that builds isolated Python environments.
+
+### ./venv/Scripts/activate.bat
+This activates the virtual environment on Windows.
+Once activated, you’ll see something like (venv) in your command prompt.
+
+### pip install streamlit 
+### pip install xgboost
+streamlit for displaying the web application, and xgboost to train the predictor model
+
+### streamlit run app.py
+This launches your app using Streamlit.
+
 ## Installation
 
 1. Clone the repository:
