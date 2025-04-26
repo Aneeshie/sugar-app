@@ -152,8 +152,8 @@ Format the response with clear sections and bullet points. Be empathetic and pro
 """
 
     # Call Gemini API
-    API_KEY = st.secrets.get("GEMINI_API_KEY", "AIzaSyDP6ycVUyatybGwjzm1k9F4P65XMc0NZpM")
-    ENDPOINT = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key={API_KEY}"
+    
+    ENDPOINT = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key={"AIzaSyCpbxKWAQokAY9R_tXIkMl0gWLfQ62neC0"}"
 
     payload = {
         "contents": [{
