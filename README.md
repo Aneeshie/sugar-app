@@ -67,9 +67,9 @@ in turn ensuring more personalized recommendations
 - **Displaying Meaningful Error Messages**: Ensuring that the system displays clear and helpful error messages when issues arise was a challenge, particularly when dealing with user input or backend processing errors.
 
 ## How to run this project?
-Windows
+## Windows
 
-go to current directory
+Go to current directory
 
 ### python -m venv venv
 This creates a virtual environment named venv using Python.
