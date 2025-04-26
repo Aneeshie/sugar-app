@@ -75,7 +75,7 @@ Go to current directory
 This creates a virtual environment named venv using Python.
 python -m venv is the module that builds isolated Python environments.
 
-### ./venv/Scripts/activate.bat
+### .\venv\Scripts\activate.bat
 This activates the virtual environment on Windows.
 Once activated, you’ll see something like (venv) in your command prompt.
 
