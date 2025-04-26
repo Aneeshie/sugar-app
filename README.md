@@ -1,5 +1,9 @@
 # Sugar - Diabetic Risk Assessment and Diet Recommendation
 
+# Live Demo
+The link for the live demo of the created application, showing the features that were implemented
+https://drive.google.com/file/d/18dlKw2sq1xCQqNfmkykeUHneBVfELQSg/view
+
 ## Problem Statement
 Diabetes is a widespread health issue, affecting millions of people globally. We aim to address the growing concern of diabetes by creating a system that helps individuals assess their likelihood of developing diabetes and provides tailored diet recommendations. This tool focuses on both individuals who have already been diagnosed with diabetes and those at risk of developing the condition.
 
