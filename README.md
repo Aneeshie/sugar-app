@@ -93,6 +93,7 @@ pip install xgboost
 streamlit for displaying the web application, and xgboost to train the predictor model
 
 ```streamlit run app.py```
+
 This launches your app using Streamlit.
 
 ## Installation
