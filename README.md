@@ -75,19 +75,19 @@ in turn ensuring more personalized recommendations
 
 Go to current directory
 
-### python -m venv venv
+``` python -m venv venv```
 This creates a virtual environment named venv using Python.
 python -m venv is the module that builds isolated Python environments.
 
-### .\venv\Scripts\activate.bat
+```.\venv\Scripts\activate.bat```
 This activates the virtual environment on Windows.
 Once activated, you’ll see something like (venv) in your command prompt.
 
-### pip install streamlit 
+```pip install streamlit```
 ### pip install xgboost
 streamlit for displaying the web application, and xgboost to train the predictor model
 
-### streamlit run app.py
+```streamlit run app.py```
 This launches your app using Streamlit.
 
 ## Installation
